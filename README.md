@@ -115,3 +115,5 @@ Options:
   -m MAX_NOTES_COUNT, --max-notes-count=MAX_NOTES_COUNT
                         max notes count to download
 ```
+## Who use it
+https://github.com/vitaly-zdanevich/geeknote
